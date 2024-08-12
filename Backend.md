@@ -71,7 +71,6 @@
 
 - Windows, MacOS, Linux 등 다양한 운영체제에서도 운영이 가능하다.
 - 또한 PHP, Java, Python 등과 같은 프로그래밍 언어들과의 호환성도 높다.
-- AWS, Google Cloud와 같은 클라우드 플랫폼에서도 완전 관리형 서비스로 제공된다.
 
 ## MySQL의 한계점은 존재하는가?
 
